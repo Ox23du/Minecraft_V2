@@ -15,12 +15,10 @@ O objetivo não é replicar o jogo original por completo, mas servir como base e
 
 ## Tecnologias utilizadas
 
-Com base na estrutura do repositório e nas linguagens detectadas:
-
 * **TypeScript**
-* **JavaScript**
+* **Java**
 * **CSS**
-* **Next.js** (App Router)
+* **Next.js** 
 
 Repositório oficial do projeto:
 
